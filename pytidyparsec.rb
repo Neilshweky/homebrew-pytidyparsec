@@ -1,8 +1,8 @@
 class Pytidyparsec < Formula
   desc "A dead-simple templating utility for simple shell interpolation"
   homepage "https://github.com/Neilshweky/py-parsec"
-  url "https://github.com/Neilshweky/homebrew-pytidyparsec/releases/download/0.1.0/pytidyparsec-0.1.0.tar.gz"
-  sha256 "144448a87a76b21bc3bd53af3b7d65dc1762965b7e4dbaac0ad0dcbf1778d6f2"
+  url "https://github.com/Neilshweky/homebrew-pytidyparsec/releases/download/0.3.0/pytidyparsec-0.3.0.tar.gz"
+  sha256 "0277e9acd65787a4ccc0ffe8971071d7be459159572f5df73fd05381a8c8f054"
 
   bottle :unneeded
 
